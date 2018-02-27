@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nombre_contacto">33dp</dimen>
+    <dimen name="telefono_contacto">29sp</dimen>
+    <dimen name="mail_contacto">20sp</dimen>
+    <dimen name="corner_radius_carview">20sp</dimen>
+    <dimen name="nombre_cardview">20sp</dimen>
+    <dimen name="elevacion_actionBar">4dp</dimen>
+</resources>

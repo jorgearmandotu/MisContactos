@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MisContactos</string>
+    <string name="nombre">emma Valentina</string>
+    <string name="telefono">3148562178</string>
+    <string name="email">emmavale@gmail,com</string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="imagenContacto">imagen de contacto</string>
+
+</resources>
